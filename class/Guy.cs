@@ -149,7 +149,7 @@ namespace Enigma
 				smoke12 =  p.element[1].ToString();
 				smoke13 =  p.element[2].ToString();
 				smoke14 =  p.element[3].ToString();
-				gimedrinks(new string[] {"Coffee", "Tea", "orange juice", "Água"});
+				gimedrinks(new string[] {"Coffee", "Tea", "orange juice", "Water"});
 			}
 
 		}
