@@ -1,5 +1,5 @@
 # Zebra
-  Solving the Zebra puzzle
+  Solving the Zebra puzzle by Rui de Almeida
   
   1. There are five houses.
   2. The Englishman lives in the red house.
