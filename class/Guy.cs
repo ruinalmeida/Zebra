@@ -11,7 +11,7 @@
  * 4. Coffee is drunk in the green house.
  * 5. The Ukrainian drinks tea.
  * 6. The green house is immediately to the right of the ivory house.
- * 7. O fumador de Marlboro tem uma snails The Old Gold smoker owns snails.
+ * 7. The Old Gold smoker owns snails.
  * 8. Kools are smoked in the yellow house.
  * 9. Milk is drunk in the middle house.
  * 10. The Norwegian lives in the first house.
