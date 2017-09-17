@@ -333,7 +333,7 @@ namespace Enigma
 			return retorno;
 		}
 		
-		//7. O fumador de Marlboro tem uma snails The Old Gold smoker owns snails.
+		//7. The Old Gold smoker owns snails.
 
 		public Boolean Valida7(Vizinhos e)
 		{
